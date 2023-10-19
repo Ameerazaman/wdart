@@ -74,7 +74,9 @@ footer.container-fluid{
     width: 100%;
     align-items: center;
   }
-  
+  .name-wood{
+    font-size: 16px;
+  }
 
 }
 
